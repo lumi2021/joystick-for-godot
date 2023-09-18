@@ -1,4 +1,4 @@
-# joystick
+# joystick service for godot engine
  
 This plugin create a fast and easyer way to comunicate with the Joystick service using **Godot engine**. 
 
