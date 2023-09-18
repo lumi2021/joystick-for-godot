@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1695055142
+icon.svg::CompressedTexture2D::3523683134826839105::1694968677::1694968718::1::::<><>::
+::res://addons/::1694968805
+::res://addons/Joystick/::1695055109
+Joystick.gd::GDScript::-1::1695055109::0::1::::<>EditorPlugin<>::
+plugin.cfg::TextFile::-1::1695052758::0::1::::<><>::
+::res://addons/Joystick/Icons/::1694981815
+JoystickClientNode.png::CompressedTexture2D::4053104502064112811::1694981767::1694981815::1::::<><>::
+::res://addons/Joystick/Util/::1695053259
+JoystickClient.gd::GDScript::-1::1695053259::0::1::::JoystickClient<>Node<>res://addons/Joystick/Icons/JoystickClientNode.png::
+::res://assets/::1695055109
+test.tscn::PackedScene::4511319792134732901::1695055109::0::1::::<><>::
