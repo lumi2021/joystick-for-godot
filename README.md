@@ -6,4 +6,6 @@ With the addition of the \"JoystickClient\" Node you can easily <sub>(and just w
 
 [See more about joystick here](https://www.getjoystick.com)
 
+Contribuitions are welcome, just send a pull request!
+
 [If you need any assistence, join the Joystick discord](https://discord.com/invite/38cJMNnccQ")
